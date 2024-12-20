@@ -11,8 +11,6 @@ I’m particularly fascinated by the theoretical aspects of statistics, which le
 While I enjoy diving into theory, I also love applying it in practice, especially through real-world projects. Working with **R** and **Python** is not just a skill but something I find genuinely exciting and fun.  
 
 Thanks for stopping by, and feel free to reach out if you’d like to learn more! 😊
-fun.
-Thanks for stopping by, and feel free to reach out if you’d like to learn more! 😊
 
 ### 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/mariapia-tedesco)  
 
