@@ -6,7 +6,7 @@ If you’re here, you’re probably curious to learn more about me, and I’m ha
 
 I’m a second-year master’s student in **Data Science and Business Analytics** at **Bocconi University**. After earning my bachelor’s degree in **Statistics for Big Data** at the University of Salerno with top honors, I moved to Milan to deepen my passion for Data Science.  
 
-I’m particularly fascinated by the theoretical aspects of statistics, which led me to choose a more quantitative track. This has allowed me to explore topics such as **mathematical machine learning**, **probability theory**, **stochastic processes**, and much more.  
+I’m particularly fascinated by the theoretical aspects of statistics, which led me to choose a more quantitative track. This has allowed me to explore topics such as **statistical learning**, **probability theory**, **stochastic processes**, **nonparametric bayesian statistics** and much more.  
 
 While I enjoy diving into theory, I also love applying it in practice, especially through real-world projects. Working with **R** and **Python** is not just a skill but something I find genuinely exciting and fun.  
 
